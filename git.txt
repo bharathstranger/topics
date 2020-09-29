@@ -1,0 +1,4 @@
+git fetch: when ever we add some data or files in the github repository ,to pull them intlo local repository we use this fetch but files will not appear physically
+git merge: once we fetch the files or date from the repository merge will help us to show the files in physcical state
+
+git pull :insted of fetch and merge we can use directly pull command but with the pull we may get conflicts if we change any data in remote repository
